@@ -1,4 +1,4 @@
-# WEB-Design-Responsivo
+# WEB Design Responsivo
 Curso de Web design responsivo pelo freeCodeCamp
 
 Foram feitos 5 projetos com conhecimentos de HTML E CSS
